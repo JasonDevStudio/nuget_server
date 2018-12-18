@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Aspose.Slides.NET</id>
+    <version>18.11.0</version>
+    <title>Aspose.Slides for .NET</title>
+    <authors>Aspose</authors>
+    <owners>Aspose</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://company.aspose.com/legal/eula</licenseUrl>
+    <projectUrl>https://products.aspose.com/slides</projectUrl>
+    <iconUrl>https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net-min.png</iconUrl>
+    <description>Aspose.Slides for .NET is a cross-platform class library that enables your applications to perform a great range of document processing tasks. Aspose.Slides supports PPT, PPS, POT, PPTX, PPSX, POTX, ODP, HTML, PDF, XPS  and other formats. With Aspose.Slides you can generate, modify, convert, render and print documents without utilizing Microsoft PowerPoint®.
+
+      Aspose.Slides for .NET is well documented to help you create your solutions on different platforms.
+
+      Rich Set of Features
+
+      Aspose.Slides for .NET features can be divided into four main areas:
+      - Conversions: High quality conversions to and from PPT, PPS, POT, PPTX, PPSX, POTX and ODP
+      - Document Object Model: Programmatic access through a rich API to all document elements and formatting allows to create, modify, extract, copy, split, join, and replace document content
+      - Rendering: Convert whole documents or pages to PDF, XPS or for server-side document generation. Also convert document pages to TIFF, PNG, BMP or EMF images, print or render pages to .NET Graphics. All with high fidelity - exactly like Microsoft PowerPoint® would have done it.
+      - Reporting: Generate documents or reports from scratch or by filling templates with data from data sources or business objects.
+
+      Platform Independence
+
+      You can use Aspose.Slides for .NET to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms etc. It is possible to use Aspose.Slides for .NET via COM Interop from ASP, Perl, PHP and Python. You can also use Aspose.Slides for .NET to build applications with Mono.
+
+      Performance and Scalability
+
+      Aspose.Slides is designed to perform great both on a server or client. Aspose.Slides is a single .NET assembly that can be deployed with any .NET application by simply copying it. You do not have to worry about any other services or modules. You can literally generate thousands of documents in minutes with Aspose.Slides and that involves opening a document, modifying content and formatting or populating it with data and saving it. Even very complex documents are opened and saved on a P4 2.4Ghz 1Gb RAM machine in fractions of a second.
+
+      Aspose.Slides is multithread safe as long as only one thread works on a document at a time. It is a typical scenario to have one thread working on one document. Different threads can safely work on different documents at the same time.
+
+      Free support for Aspose.Slides for .NET is provided on our support forum:
+      https://forum.aspose.com/</description>
+    <summary>Aspose.Slides is а presentation file formats processing library for working with Microsoft PowerPoint files without using Microsoft PowerPoint. It allows developers to work with PPT, PPS, POT, PPTX, PPSX, POTX and ODP files on ASP.NET web applications, web services and Windows applications. It allows you to open files and manipulate the elements of the presentation from adding slides and managing variety of shapes and working with text to more complex elements like presentation protection, slide animations, charts and SmartArt rendering.The presentations can be exported to PDF, TIFF, XPS, SVG, PNG, JPEG, BMP or EMF formats.</summary>
+    <releaseNotes>https://docs.aspose.com/display/slidesnet/Aspose.Slides+for+.NET+18.11+Release+Notes</releaseNotes>
+    <copyright>© Aspose 2002-2018. All Rights Reserved.</copyright>
+    <tags>PowerPoint presentations Aspose.Slides PPT PPTX POTX POT PPS PPSX ODT</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Text.Encoding.CodePages" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
